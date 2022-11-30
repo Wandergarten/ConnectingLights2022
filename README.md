@@ -14,7 +14,7 @@ Connecting Bright Data Talents with Lighthouse!
 # About Us
 
 ### Mr. "Über den Wolken muss die Zukunft wohl zu grenzenlos sein"
-![christo](https://github.com/Wandergarten/ConnectingLights2022/blob/main/christo-1.png) {: width="200px"}
+![christo](https://github.com/Wandergarten/ConnectingLights2022/blob/main/christo-1.png)
 
 * Cutting Edge Cloud-native Techie
 * Academic background: Engineering @TU Berlin :rocket:
