@@ -13,11 +13,11 @@ Connecting Bright Data Talents with Lighthouse!
 
 # About Us
 
-### Mr. "Über den Wolken muss die Zukunft wohl zu grenzenlos sein"
+### Mr. "Cloud Systems Analyst"
 ![christo](https://github.com/Wandergarten/ConnectingLights2022/blob/main/christo-1.png)
 
 * Cutting Edge Cloud-native Techie
-* Academic background: Engineering @TU Berlin :rocket:
+* Academic background: Industrial Engineering and Management @TU Berlin :rocket:
 * Job profile: Senior Cloud Architect
 * Tech stack: Kubernetes (K8s, K3s), Docker, Cloud Platforms, Helm, Nexus, Grafana, Linux
 * Feel free to contact me via christomeyer@\<big-four-large-letters\>.com: 
