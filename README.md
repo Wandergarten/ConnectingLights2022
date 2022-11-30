@@ -13,8 +13,8 @@ Connecting Bright Data Talents with Lighthouse!
 
 # About Us
 
-### Mr. "Cloud Systems Analyst"
-![christo](https://github.com/Wandergarten/ConnectingLights2022/blob/main/christo-1.png)
+### Mr. "Cloud-but-not-for-the-Public-Crowd"
+![christo](https://github.com/Wandergarten/ConnectingLights2022/blob/main/christo-2.png)
 
 * Cutting Edge Cloud-native Techie
 * Academic background: Industrial Engineering and Management @TU Berlin :rocket:
